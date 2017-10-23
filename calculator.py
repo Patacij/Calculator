@@ -13,4 +13,3 @@ elif operation == "/":
     print(x / y)
 else:
     raise ValueError("Wrong operation!")
-
